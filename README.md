@@ -18,8 +18,7 @@ B.Tech CSE (AI & ML) student at VIT Bhopal (2024–2028). I've interned in AI & 
 - [**PrimetradeAI-ML**](https://github.com/Amish23102006/PrimetradeAI-ML): Dockerised MLOps batch job with config, logging, and metrics output
 - [**Resume Analyzer**](https://github.com/Amish23102006/resume-analyzer-java): Java Swing mini-ATS that scores resumes against job descriptions using cosine similarity
 - [**Open Source Audit**](https://github.com/Amish23102006/open-source-audit): Git audit using five Bash scripts for system, disk, and log analysis
-- **Fake Text Detection System**: binary text classifier with 87% accuracy
-- **Cost-Aware Active Learning**: empirical study of when cost-aware sample selection helps
+- [**Cost-Aware Active Learning**](https://colab.research.google.com/drive/10rmcP2NRS7VsD01_1BC779UFK0BVkHus#scrollTo=z1QIIlxIxw1Z): empirical study of when cost-aware sample selection helps 
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/amish-chaturvedi-756606333)
