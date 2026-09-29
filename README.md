@@ -22,3 +22,23 @@ B.Tech CSE (AI & ML) student at VIT Bhopal (2024–2028). I've interned in AI & 
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/amish-chaturvedi-756606333)
+
+## 🧠 Technical Skillset
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,bash,docker,git,github,opencv,sklearn,pandas,numpy&theme=dark" />
+</p>
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Amish23102006&theme=dark&hide_border=true" />
+</p>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amish23102006&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amish23102006&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+## 🤝 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/amish-chaturvedi-756606333"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chaturvediamish06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
