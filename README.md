@@ -36,7 +36,7 @@ B.Tech CSE (AI & ML) student at **VIT Bhopal** (2024–2028). I interned in **AI
 | [**Resume Analyzer**](https://github.com/Amish23102006/resume-analyzer-java) | Java Swing mini-ATS scoring resumes with cosine similarity | Java, Swing, NLP |
 | [**Open Source Audit**](https://github.com/Amish23102006/open-source-audit) | Git audit using five Bash scripts | Bash, Linux |
 | [**Cost-Aware Active Learning**](https://colab.research.google.com/drive/10rmcP2NRS7VsD01_1BC779UFK0BVkHus#scrollTo=z1QIIlxIxw1Z) | Empirical study of when cost-aware sample selection helps | Python, scikit-learn |
-| [**Fake Text Detection**](https://github.com/Amish23102006/fake-text-detection) | Classifier separating AI-generated from human-written text using stylometric features and classical ML. ~83% accuracy on a held-out, length-matched test set, with an ablation across feature families. |
+| [**Fake Text Detection**](https://github.com/Amish23102006/fake-text-detection) | Classifier separating AI-generated from human-written text using stylometric features and classical ML. ~83% accuracy on a held-out, length-matched test set, with an ablation across feature families. | nlp, machine-learning, scikit-learn, text-classification, ai-detection, python |
 
 ## 📊 GitHub Analytics
 <p align="center">
