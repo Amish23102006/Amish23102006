@@ -55,6 +55,12 @@ B.Tech CSE (AI & ML) student at **VIT Bhopal** (2024–2028). I recently interne
 - Deep Learning Specialization (Coursera) · Supervised ML (DeepLearning.AI)
 - Tech Mahindra AI White, Blue & Brown Belt (2026)
 
+## GitHub Analytics
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Amish23102006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amish23102006&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ## Get in touch
 📧 [chaturvediamish06@gmail.com](mailto:chaturvediamish06@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/amish-chaturvedi-756606333)
 <!-- Add a line here once your CV is hosted: 📄 [Resume](link) -->
