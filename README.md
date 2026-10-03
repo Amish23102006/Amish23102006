@@ -58,7 +58,7 @@ B.Tech CSE (AI & ML) student at **VIT Bhopal** (2024–2028). I recently interne
 ## GitHub Analytics
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Amish23102006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amish23102006&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amish23102006&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
 </p>
 
 ## Get in touch
