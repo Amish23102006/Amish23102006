@@ -31,6 +31,29 @@ B.Tech CSE (AI & ML) student at **VIT Bhopal** (2024–2028). I recently interne
 
 ---
 
+## ⭐ Spotlight: MedAgent
+
+> **Chain medical AI agents into a working pipeline in minutes, with no code.** Every agent is a reusable MCP tool, so any MCP-compatible client can call it.
+
+<!-- Replace with your real demo: drag a GIF/MP4 into the GitHub editor and paste the link it gives you -->
+<!-- [![MedAgent demo](https://github.com/Amish23102006/medagent/assets/YOUR-DEMO.gif)](https://medagent-rust.vercel.app) -->
+
+```mermaid
+flowchart LR
+    U[User / No-code console] --> O[LangGraph orchestrator]
+    O --> A1[Agent 1]
+    O --> A2[Agent 2]
+    O --> A3[Agent 3]
+    O --> A4[Agent N]
+    A1 & A2 & A3 & A4 --> M[MCP server layer]
+    M --> R[Combined result]
+    R --> U
+```
+
+[🌐 Live demo](https://medagent-rust.vercel.app) · [💻 Source](https://github.com/Amish23102006/medagent)
+
+---
+
 ## 💼 Experience
 | Role | What I did |
 |---|---|
@@ -123,10 +146,6 @@ mindmap
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Amish23102006&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amish23102006&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
