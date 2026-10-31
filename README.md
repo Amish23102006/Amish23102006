@@ -120,12 +120,19 @@ An AI-focused application exploring intelligent assistance in a healthcare-relat
 <img src="https://img.shields.io/github/stars/Amish23102006?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="GitHub stars" />
 <img src="https://img.shields.io/github/followers/Amish23102006?style=for-the-badge&logo=github&label=Followers&color=blue" alt="GitHub followers" />
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amish23102006&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity" />
+<div align="center">
+
+<a href="https://github.com/Amish23102006">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amish23102006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub contribution and repository statistics" width="70%" />
+</a>
+
+<br/>
+
+**[View my complete GitHub contribution history](https://github.com/Amish23102006?tab=overview)**
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
