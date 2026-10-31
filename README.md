@@ -129,7 +129,7 @@ An AI-focused application exploring intelligent assistance in a healthcare-relat
 </a>
 
 <br/>
----
+
 ## 🐍 Contribution Snake
 
 <div align="center">
