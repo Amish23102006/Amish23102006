@@ -128,8 +128,6 @@ An AI-focused application exploring intelligent assistance in a healthcare-relat
   <img src="https://github-readme-stats.vercel.app/api?username=Amish23102006&show_icons=true&theme=tokyonight&hide_border=true" >
 </a>
 
-<br/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
