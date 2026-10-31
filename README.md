@@ -158,7 +158,6 @@ An AI-focused application exploring intelligent assistance in a healthcare-relat
 </a>
 
 </div>
----
 
 <div align="center">
 
