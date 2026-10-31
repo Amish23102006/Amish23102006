@@ -128,11 +128,26 @@ An AI-focused application exploring intelligent assistance in a healthcare-relat
   <img src="https://github-readme-stats.vercel.app/api?username=Amish23102006&show_icons=true&theme=tokyonight&hide_border=true" >
 </a>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Amish23102006&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Statistics"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amish23102006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&size_weight=0.3&count_weight=0.7" width="48%" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Amish23102006&theme=tokyonight&hide_border=true" width="60%" alt="Contribution Streak"/>
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Amish23102006/Amish23102006/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Amish23102006/Amish23102006/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
