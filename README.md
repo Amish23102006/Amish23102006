@@ -130,9 +130,6 @@ An AI-focused application exploring intelligent assistance in a healthcare-relat
 
 <br/>
 
-**[View my complete GitHub contribution history](https://github.com/Amish23102006?tab=overview)**
-
-</div>
 ---
 
 ## 🐍 Contribution Snake
