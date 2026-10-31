@@ -125,13 +125,11 @@ An AI-focused application exploring intelligent assistance in a healthcare-relat
 <div align="center">
 
 <a href="https://github.com/Amish23102006">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amish23102006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub contribution and repository statistics" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amish23102006&show_icons=true&theme=tokyonight&hide_border=true" >
 </a>
 
 <br/>
-
 ---
-
 ## 🐍 Contribution Snake
 
 <div align="center">
