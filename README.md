@@ -151,15 +151,13 @@ An AI-focused application exploring intelligent assistance in a healthcare-relat
 <div align="center">
 
 <a href="https://github.com/Amish23102006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<a href="https://medagent-rust.vercel.app">
-<img src="https://img.shields.io/badge/MedAgent-Live%20Demo-0A7EA4?style=for-the-badge&logo=vercel&logoColor=white" alt="MedAgent" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
-
 ---
 
 <div align="center">
