@@ -128,6 +128,14 @@ An AI-focused application exploring intelligent assistance in a healthcare-relat
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Amish23102006/Amish23102006/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+
+</div>
+
 ## 🎯 Goals
 
 - Build practical AI and machine learning projects.
