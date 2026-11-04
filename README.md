@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Amish%20Chaturvedi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18" width="100%" alt="Amish Chaturvedi profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Amish%20Chaturvedi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20LLM%20Agents%20%7C%20Applied%20ML%20Research&descAlignY=58&descSize=18" width="100%" alt="Amish Chaturvedi profile banner"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+%26+Analytics;Building+Practical+AI+Solutions;Always+Learning+and+Building" alt="Introduction"/>
+<a href="https://github.com/Amish23102006">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+multi-agent+LLM+systems+with+MCP;Applied+ML+research+with+honest+evaluation;B.Tech+CSE+(AI+%26+ML)+%40+VIT+Bhopal+%C2%B7+Class+of+2028;Learning+Japanese+%40+Zenken+India" alt="Introduction"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/Amish23102006">
-<img src="https://img.shields.io/badge/GitHub-Amish23102006-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-</a>
+<a href="https://www.linkedin.com/in/amish-chaturvedi-756606333/"><img src="https://img.shields.io/badge/LinkedIn-Amish%20Chaturvedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:chaturvediamish06@gmail.com"><img src="https://img.shields.io/badge/Email-chaturvediamish06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=Amish23102006&style=for-the-badge&color=blue" alt="Profile views"/>
 
 </div>
@@ -19,80 +18,59 @@
 
 ## 👋 About Me
 
-Hi! I'm **Amish Chaturvedi**, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at **VIT Bhopal University**.
+I'm **Amish Chaturvedi**, a B.Tech Computer Science (AI & ML) student at **VIT Bhopal University**, graduating in **2028**. I build multi-agent AI systems and test whether research ideas actually hold up, with clear evaluation and documented limitations.
 
-I'm interested in developing practical solutions using AI, machine learning, data science, and software development. I enjoy transforming ideas into useful applications and learning through hands-on projects.
-
-- 🎓 **Degree:** B.Tech in Computer Science Engineering
-- 🤖 **Specialization:** Artificial Intelligence and Machine Learning
-- 🏫 **University:** VIT Bhopal University
-- 📅 **Expected graduation:** 2028
-- 💡 **Interests:** AI, Machine Learning, Data Science, and Data Analytics
-- 🚀 **Focus:** Building useful AI-powered applications
-
----
-
-## 💼 Experience
-
-### 🤖 AI & Data Analytics Intern — Tech Mahindra
-**May 2026 – August 2026**
-
-- Gained experience with AI and data analytics workflows.
-- Explored data-driven approaches to technical and business problems.
-- Strengthened analytical and problem-solving skills.
-
-### 📊 Data Science Intern — Finlatics
-**April 2026 – June 2026**
-
-- Explored data science concepts and analytical workflows.
-- Practiced identifying patterns and interpreting data.
-- Developed data-driven problem-solving skills.
+- 🤖 **Focus:** LLM agents, Model Context Protocol (MCP), multi-agent systems, data-efficient learning
+- 💼 **Experience:** AI & Data Analytics Intern at **Tech Mahindra** (May–Aug 2026)
+- 🔬 **Research:** cost-aware active learning for text classification (paper draft in progress)
+- 🎯 **Looking for:** 2027 internships and 2028 graduate roles in AI/ML engineering, GenAI/LLM applications, data science and software engineering — India, Japan and global teams
+- 🇯🇵 **Languages:** English · Japanese (beginner, learning through Zenken India)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🩺 MedAgent
-
-An AI-focused application exploring intelligent assistance in a healthcare-related context.
-
-<a href="https://medagent-rust.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20MedAgent-0A7EA4?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit MedAgent"/>
-</a>
-
-- 🌐 Deployed web application
-- 🤖 AI-oriented application workflow
-- 💡 Focused on making technology accessible through a practical interface
-
-*AI-generated health information should not replace professional medical advice.*
-
-### 💻 Explore More Projects
-
-<a href="https://github.com/Amish23102006?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+| Project | What it is | Highlights | Stack |
+|---|---|---|---|
+| 🩺 **[MedAgent](https://github.com/Amish23102006/medagent)** · [Live demo](https://medagent-rust.vercel.app) | 4-agent symptom-triage pipeline where every agent is an MCP tool | Symptom Analyzer → Disease Matcher → Risk Assessor → Care Coordinator; per-call token usage and latency; red-flag escalation; deployed (Vercel + Render) | React, Node.js, MCP, Groq LLM, Docker |
+| 🔬 **[Cost-Aware Active Learning](https://github.com/Amish23102006/cost-aware-active-learning)** | Empirical study: when does cost-aware active learning help? | Greedy cost-weighting vs 0-1 knapsack on AG News & IMDB; 10 seeds, bootstrap 95% CIs; benefit grows with labeling-cost variance | Python, scikit-learn, sentence-transformers |
+| 🕵️ **[Fake Text Detection](https://github.com/Amish23102006/fake-text-detection)** | AI-generated vs human-written text classifier | Stylometric features; length-matched data; **82.9% held-out accuracy**; feature-family ablation; tests + Streamlit demo | Python, scikit-learn, Streamlit |
+| 🖼️ **[Panorama Stitcher](https://github.com/Amish23102006/panorama-stitcher)** | Feature-based panorama stitching CLI | SIFT/ORB, Lowe's ratio test, RANSAC homography, per-pair metrics, pytest suite | Python, OpenCV, NumPy |
+| ⚙️ **[PrimetradeAI-ML](https://github.com/Amish23102006/PrimetradeAI-ML)** | Dockerised MLOps batch job | Rolling-mean signal, config-driven runs, logging and metrics output | Python, pandas, Docker |
+| 📄 **[Resume Analyzer](https://github.com/Amish23102006/resume-analyzer-java)** | Mini-ATS that scores resumes against job descriptions | Cosine-similarity matching with a Java Swing UI | Java, NLP |
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💼 Experience
+
+**AI & Data Analytics Intern — Tech Mahindra** · *May 2026 – Aug 2026 · Hybrid*
+- Built LangGraph-based LLM agent workflows and developed agent tools and MCP servers.
+- Analyzed emerging AI trends, including centralized agent marketplaces and agent-based architectures.
+- Received a "Great Job" recognition for building and demonstrating agent solutions.
+
+**ML-DS Intern — Finlatics** · *Apr 2026 – Jun 2026 · Remote*
+- Worked on data analysis and machine learning projects in Python: preprocessing, statistical techniques and model building.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,fastapi,sklearn,opencv,docker,azure,gcp,linux,bash,git,github" alt="Tech stack"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Programming languages"/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" alt="Web development tools"/>
-
-### AI, Data & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode" alt="AI and developer tools"/>
+**AI & LLM:** LangChain · LangGraph · MCP · RAG · Prompt engineering · Multi-agent systems
+**ML & Data:** scikit-learn · pandas · NumPy · NLP · Computer vision · Model evaluation · Active learning
 
 </div>
 
-**Areas of interest:** Machine Learning · Artificial Intelligence · Data Analysis · Data Visualization · Predictive Modeling · Software Development
+---
+
+## 📜 Certifications
+
+- **Microsoft Certified: Machine Learning Operations Engineer Associate** (AI-300)
+- **AWS Cloud Practitioner Essentials** — AWS Training & Certification
+- **Exploratory Data Analysis** — NASSCOM FutureSkills Prime
 
 ---
 
@@ -100,31 +78,10 @@ An AI-focused application exploring intelligent assistance in a healthcare-relat
 
 <div align="center">
 
-### 🏆 GitHub Statistics
-
 <img src="https://github-stats-extended.vercel.app/api?username=Amish23102006&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub statistics"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amish23102006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&size_weight=0.3&count_weight=0.7" width="48%" alt="Top programming languages"/>
 
-<br/><br/>
-
-### 🔥 Contribution Streak
-
 <img src="https://streak-stats.demolab.com/?user=Amish23102006&theme=tokyonight&hide_border=true" width="60%" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-### ⭐ Stars & Followers
-
-<img src="https://img.shields.io/github/stars/Amish23102006?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="GitHub stars"/>
-<img src="https://img.shields.io/github/followers/Amish23102006?style=for-the-badge&logo=github&label=Followers&color=blue" alt="GitHub followers"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/Amish23102006/Amish23102006/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 
@@ -132,34 +89,17 @@ An AI-focused application exploring intelligent assistance in a healthcare-relat
 
 ---
 
-## 🎯 Goals
+## 🎯 Next Up
 
-- Build practical AI and machine learning projects.
-- Strengthen Python programming and data science skills.
-- Develop applications that address real-world problems.
-- Contribute to open-source projects.
-- Continue learning new technologies and development practices.
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Amish23102006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
+- Benchmark MedAgent's 4-agent pipeline against a single-prompt baseline (accuracy, latency, cost per query)
+- Finalize the cost-aware active learning paper draft
+- Keep improving my Japanese for work with Japanese and global teams
 
 ---
 
 <div align="center">
 
-### 💡 Learning, building, and improving — one project at a time.
+### 💡 Building, measuring, and improving — one project at a time.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Footer banner"/>
 
