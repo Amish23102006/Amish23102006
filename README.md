@@ -32,12 +32,21 @@ I'm **Amish Chaturvedi**, a B.Tech Computer Science (AI & ML) student at **VIT B
 
 | Project | What it is | Highlights | Stack |
 |---|---|---|---|
-| 🩺 **[MedAgent](https://github.com/Amish23102006/medagent)** · [Live demo](https://medagent-rust.vercel.app) | 4-agent symptom-triage pipeline where every agent is an MCP tool | Symptom Analyzer → Disease Matcher → Risk Assessor → Care Coordinator; per-call token usage and latency; red-flag escalation; deployed (Vercel + Render) | React, Node.js, MCP, Groq LLM, Docker |
+| 🩺 **[MedAgent](https://github.com/Amish23102006/medagent)** · [Live demo](https://medagent-rust.vercel.app) | 4-agent symptom-triage pipeline where every agent is an MCP tool | Symptom Analyzer → Disease Matcher → Risk Assessor → Care Coordinator; schema-validated inputs; red-flag escalation enforced in code; 19 automated tests + CI; deployed (Vercel + Render) | React, Node.js, MCP, Groq LLM, Docker |
 | 🔬 **[Cost-Aware Active Learning](https://github.com/Amish23102006/cost-aware-active-learning)** | Empirical study: when does cost-aware active learning help? | Greedy cost-weighting vs 0-1 knapsack on AG News & IMDB; 10 seeds, bootstrap 95% CIs; benefit grows with labeling-cost variance | Python, scikit-learn, sentence-transformers |
 | 🕵️ **[Fake Text Detection](https://github.com/Amish23102006/fake-text-detection)** | AI-generated vs human-written text classifier | Stylometric features; length-matched data; **82.9% held-out accuracy**; feature-family ablation; tests + Streamlit demo | Python, scikit-learn, Streamlit |
 | 🖼️ **[Panorama Stitcher](https://github.com/Amish23102006/panorama-stitcher)** | Feature-based panorama stitching CLI | SIFT/ORB, Lowe's ratio test, RANSAC homography, per-pair metrics, pytest suite | Python, OpenCV, NumPy |
 | ⚙️ **[PrimetradeAI-ML](https://github.com/Amish23102006/PrimetradeAI-ML)** | Dockerised MLOps batch job | Rolling-mean signal, config-driven runs, logging and metrics output | Python, pandas, Docker |
 | 📄 **[Resume Analyzer](https://github.com/Amish23102006/resume-analyzer-java)** | Mini-ATS that scores resumes against job descriptions | Cosine-similarity matching with a Java Swing UI | Java, NLP |
+
+### 📐 In Design
+
+These two projects have a completed architecture and evaluation plan. Code is not public yet.
+
+| Project | What it is | Design highlights | Planned stack |
+|---|---|---|---|
+| 🎯 **RoleFit AI** | Evidence-grounded career analytics platform | Matches job requirements to verified candidate evidence and produces a transparent readiness score; blocks any claim not backed by evidence; measures requirement coverage, unsupported-claim detection and scoring consistency | Python, FastAPI, LangGraph, PostgreSQL |
+| 🏭 **InspectEdge AI** | Explainable industrial anomaly detection | Learns from defect-free images (MVTec AD), localizes anomalies and routes uncertain cases to human review; evaluated on precision-recall, missed-anomaly rate, false alarms per 100 images and robustness | Python, MVTec AD, ONNX (edge benchmarking) |
 
 ---
 
@@ -48,8 +57,10 @@ I'm **Amish Chaturvedi**, a B.Tech Computer Science (AI & ML) student at **VIT B
 - Analyzed emerging AI trends, including centralized agent marketplaces and agent-based architectures.
 - Received a "Great Job" recognition for building and demonstrating agent solutions.
 
-**ML-DS Intern — Finlatics** · *Apr 2026 – Jun 2026 · Remote*
-- Worked on data analysis and machine learning projects in Python: preprocessing, statistical techniques and model building.
+**Data Science Virtual Intern — Finlatics (Fincrux Technologies)** · *Apr 2026 – Jun 2026 · Remote*
+- Completed 3 end-to-end analysis projects in Python (pandas, scikit-learn): data preparation, modelling and evaluation.
+- Compared 5 statistical and machine learning techniques, improving prediction accuracy by 20% over the baseline.
+- Received a Letter of Recommendation from the Founder.
 
 ---
 
@@ -71,6 +82,8 @@ I'm **Amish Chaturvedi**, a B.Tech Computer Science (AI & ML) student at **VIT B
 - **Microsoft Certified: Machine Learning Operations Engineer Associate** (AI-300)
 - **AWS Cloud Practitioner Essentials** — AWS Training & Certification
 - **Exploratory Data Analysis** — NASSCOM FutureSkills Prime
+- **Deep Learning Specialization** — DeepLearning.AI
+- **Google Cloud Computing Foundations** — Google Cloud
 
 ---
 
@@ -91,6 +104,7 @@ I'm **Amish Chaturvedi**, a B.Tech Computer Science (AI & ML) student at **VIT B
 
 ## 🎯 Next Up
 
+- Build RoleFit AI and InspectEdge AI from their designs and publish the code
 - Benchmark MedAgent's 4-agent pipeline against a single-prompt baseline (accuracy, latency, cost per query)
 - Finalize the cost-aware active learning paper draft
 - Keep improving my Japanese for work with Japanese and global teams
