@@ -33,20 +33,13 @@ I'm **Amish Chaturvedi**, a B.Tech Computer Science (AI & ML) student at **VIT B
 | Project | What it is | Highlights | Stack |
 |---|---|---|---|
 | 🩺 **[MedAgent](https://github.com/Amish23102006/medagent)** · [Live demo](https://medagent-rust.vercel.app) | 4-agent symptom-triage pipeline where every agent is an MCP tool | Symptom Analyzer → Disease Matcher → Risk Assessor → Care Coordinator; schema-validated inputs; red-flag escalation enforced in code; 19 automated tests + CI; deployed (Vercel + Render) | React, Node.js, MCP, Groq LLM, Docker |
+| 🎯 **[RoleFit AI](https://github.com/Amish23102006/rolefit-ai)** | Evidence-grounded career-preparation platform | 12 deterministic agents: eligibility gate, transparent readiness score, gap plan; every resume bullet must cite approved evidence; job alerts from official Greenhouse/Lever/Ashby APIs; SSRF-safe fetching; 91 tests + threat model | Python, FastAPI, Streamlit, Docker, Groq (optional) |
+| 🏭 **[InspectEdge AI](https://github.com/Amish23102006/inspectedge-ai)** | Explainable industrial anomaly detection with human review | Learns only from defect-free MVTec AD images; ResNet-18 kNN patch features and autoencoder baselines; image-quality gate; PASS / MANUAL_REVIEW / LIKELY_ANOMALY with calibrated thresholds; SQLite audit trail. Benchmark results not run yet | Python, PyTorch, FastAPI, Streamlit, Docker |
 | 🔬 **[Cost-Aware Active Learning](https://github.com/Amish23102006/cost-aware-active-learning)** | Empirical study: when does cost-aware active learning help? | Greedy cost-weighting vs 0-1 knapsack on AG News & IMDB; 10 seeds, bootstrap 95% CIs; benefit grows with labeling-cost variance | Python, scikit-learn, sentence-transformers |
 | 🕵️ **[Fake Text Detection](https://github.com/Amish23102006/fake-text-detection)** | AI-generated vs human-written text classifier | Stylometric features; length-matched data; **82.9% held-out accuracy**; feature-family ablation; tests + Streamlit demo | Python, scikit-learn, Streamlit |
 | 🖼️ **[Panorama Stitcher](https://github.com/Amish23102006/panorama-stitcher)** | Feature-based panorama stitching CLI | SIFT/ORB, Lowe's ratio test, RANSAC homography, per-pair metrics, pytest suite | Python, OpenCV, NumPy |
 | ⚙️ **[PrimetradeAI-ML](https://github.com/Amish23102006/PrimetradeAI-ML)** | Dockerised MLOps batch job | Rolling-mean signal, config-driven runs, logging and metrics output | Python, pandas, Docker |
 | 📄 **[Resume Analyzer](https://github.com/Amish23102006/resume-analyzer-java)** | Mini-ATS that scores resumes against job descriptions | Cosine-similarity matching with a Java Swing UI | Java, NLP |
-
-### 📐 In Design
-
-These two projects have a completed architecture and evaluation plan. Code is not public yet.
-
-| Project | What it is | Design highlights | Planned stack |
-|---|---|---|---|
-| 🎯 **RoleFit AI** | Evidence-grounded career analytics platform | Matches job requirements to verified candidate evidence and produces a transparent readiness score; blocks any claim not backed by evidence; measures requirement coverage, unsupported-claim detection and scoring consistency | Python, FastAPI, LangGraph, PostgreSQL |
-| 🏭 **InspectEdge AI** | Explainable industrial anomaly detection | Learns from defect-free images (MVTec AD), localizes anomalies and routes uncertain cases to human review; evaluated on precision-recall, missed-anomaly rate, false alarms per 100 images and robustness | Python, MVTec AD, ONNX (edge benchmarking) |
 
 ---
 
@@ -104,7 +97,8 @@ These two projects have a completed architecture and evaluation plan. Code is no
 
 ## 🎯 Next Up
 
-- Build RoleFit AI and InspectEdge AI from their designs and publish the code
+- Run InspectEdge AI on MVTec AD and publish the benchmark report; add ONNX edge benchmarking
+- Add LangGraph orchestration to RoleFit AI
 - Benchmark MedAgent's 4-agent pipeline against a single-prompt baseline (accuracy, latency, cost per query)
 - Finalize the cost-aware active learning paper draft
 - Keep improving my Japanese for work with Japanese and global teams
