@@ -86,7 +86,7 @@ I'm **Amish Chaturvedi**, a B.Tech Computer Science (AI & ML) student at **VIT B
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Amish23102006&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub statistics"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amish23102006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&size_weight=0.3&count_weight=0.7&hide=jupyter%20notebook,dockerfile,makefile" width="48%" alt="Top programming languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amish23102006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=jupyter%20notebook,dockerfile,makefile" width="48%" alt="Top programming languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=Amish23102006&theme=tokyonight&hide_border=true" width="60%" alt="GitHub contribution streak"/>
 
