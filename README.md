@@ -34,6 +34,7 @@ I'm **Amish Chaturvedi**, a B.Tech Computer Science (AI & ML) student at **VIT B
 |---|---|---|---|
 | 🩺 **[MedAgent](https://github.com/Amish23102006/medagent)** · [Live demo](https://medagent-rust.vercel.app) | 4-agent symptom-triage pipeline where every agent is an MCP tool | Symptom Analyzer → Disease Matcher → Risk Assessor → Care Coordinator; schema-validated inputs; red-flag escalation enforced in code; 19 automated tests + CI; deployed (Vercel + Render) | React, Node.js, MCP, Groq LLM, Docker |
 | 🎯 **[RoleFit AI](https://github.com/Amish23102006/rolefit-ai)** | Evidence-grounded career-preparation platform | 12 deterministic agents: eligibility gate, transparent readiness score, gap plan; every resume bullet must cite approved evidence; job alerts from official Greenhouse/Lever/Ashby APIs; SSRF-safe fetching; 91 tests + threat model | Python, FastAPI, Streamlit, Docker, Groq (optional) |
+| 🛡️ **[FinGuard AI](https://github.com/Amish23102006/finguard-ai)** | Explainable multi-agent financial risk intelligence with human oversight | Credit, fraud and data-reliability agents share one response contract; disagreement is measured, never averaged away; abstains on out-of-distribution or missing data; policy-as-code risk committee (versioned YAML); linear-SHAP explanations; downloadable Decision Passport audit record; 36 tests + CI and security scans. Synthetic data only | Python, scikit-learn, FastAPI, Streamlit, Docker |
 | 🏭 **[InspectEdge AI](https://github.com/Amish23102006/inspectedge-ai)** | Explainable industrial anomaly detection with human review | Learns only from defect-free MVTec AD images; ResNet-18 kNN patch features and autoencoder baselines; image-quality gate; PASS / MANUAL_REVIEW / LIKELY_ANOMALY with calibrated thresholds; SQLite audit trail. Benchmark results not run yet | Python, PyTorch, FastAPI, Streamlit, Docker |
 | 🔬 **[Cost-Aware Active Learning](https://github.com/Amish23102006/cost-aware-active-learning)** | Empirical study: when does cost-aware active learning help? | Greedy cost-weighting vs 0-1 knapsack on AG News & IMDB; 10 seeds, bootstrap 95% CIs; benefit grows with labeling-cost variance | Python, scikit-learn, sentence-transformers |
 | 🕵️ **[Fake Text Detection](https://github.com/Amish23102006/fake-text-detection)** | AI-generated vs human-written text classifier | Stylometric features; length-matched data; **82.9% held-out accuracy**; feature-family ablation; tests + Streamlit demo | Python, scikit-learn, Streamlit |
@@ -85,7 +86,7 @@ I'm **Amish Chaturvedi**, a B.Tech Computer Science (AI & ML) student at **VIT B
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Amish23102006&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub statistics"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amish23102006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&size_weight=0.3&count_weight=0.7" width="48%" alt="Top programming languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amish23102006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&size_weight=0.3&count_weight=0.7&hide=jupyter%20notebook,dockerfile,makefile" width="48%" alt="Top programming languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=Amish23102006&theme=tokyonight&hide_border=true" width="60%" alt="GitHub contribution streak"/>
 
@@ -99,6 +100,7 @@ I'm **Amish Chaturvedi**, a B.Tech Computer Science (AI & ML) student at **VIT B
 
 - Run InspectEdge AI on MVTec AD and publish the benchmark report; add ONNX edge benchmarking
 - Add LangGraph orchestration to RoleFit AI
+- Build FinGuard AI phase 4: financial digital twin and scenario simulation
 - Benchmark MedAgent's 4-agent pipeline against a single-prompt baseline (accuracy, latency, cost per query)
 - Finalize the cost-aware active learning paper draft
 - Keep improving my Japanese for work with Japanese and global teams
